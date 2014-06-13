@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf-8'?>
+<widget id="com.danielchatfield.mayball" version="0.0.1" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
+    <name>Robinson May Ball</name>
+    <description>
+        Programme for Robinson May Ball.
+    </description>
+    <author email="chatfielddaniel@gmail.com" href="http://danielchatfield.com">
+        Daniel Chatfield
+    </author>
+    <content src="index.html" />
+    <access origin="*" />
+</widget>
